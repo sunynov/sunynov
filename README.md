@@ -11,7 +11,6 @@
 ![C](https://img.shields.io/badge/C-a64dff?style=flat-square&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-378BBA?style=flat-square)
-
 ![python](https://img.shields.io/badge/python-red?style=flat-square&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
