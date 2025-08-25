@@ -20,9 +20,9 @@
 [![Android](https://img.shields.io/badge/Env-Android-737373?style=flat-square&logo=android&logoColor=#A4C639&labelColor=737373)](https://www.android.com/)
 ![kali](https://img.shields.io/badge/kali_linux-000000?style=flat-square&logo=kali&logoColor=FFFFFF&labelColor=000000)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-9933FF?style=flat-square&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-00BBFF?style=flat-square&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-9933FF?style=flat-square&logoColor=white)
-![Pycharm](https://img.shields.io/badge/pycharm%20IDEA-9933FF?style=flat-square&logo=pycharm&logoColor=white)
+![Pycharm](https://img.shields.io/badge/pycharm%20IDEA-228B22?style=flat-square&logo=pycharm&logoColor=white)
 
 ## 设备
 
