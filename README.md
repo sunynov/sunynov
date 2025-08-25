@@ -22,7 +22,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-00BBFF?style=flat-square&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-9933FF?style=flat-square&logoColor=white)
-![Pycharm](https://img.shields.io/badge/pycharm%20IDEA-228B22?style=flat-square&logo=pycharm&logoColor=white)
+![Pycharm](https://img.shields.io/badge/Pycharm-228B22?style=flat-square&logo=pycharm&logoColor=white)
 
 ## 设备
 
