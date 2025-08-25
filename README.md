@@ -17,8 +17,8 @@
 
 ## 开发环境
 
-![Windows](https://img.shields.io/badge/Env-Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
-![Android](https://img.shields.io/badge/Env-Android-737373?style=flat-square&logo=android&logoColor=#A4C639&labelColor=737373)](https://www.android.com/)
+[![Windows](https://img.shields.io/badge/Env-Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
+[![Android](https://img.shields.io/badge/Env-Android-737373?style=flat-square&logo=android&logoColor=#A4C639&labelColor=737373)](https://www.android.com/)
 ![kali](https://img.shields.io/badge/kali_linux-000000?style=flat-square&logo=kali&logoColor=FFFFFF&labelColor=000000)
 
 
