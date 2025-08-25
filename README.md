@@ -1,30 +1,37 @@
-# Hi there! 👋 <br>
+# 你好，我是suny! 👋
 
-## 个人简介
+大一萌新，一只喜欢瞎搞的技术菜鸡。
 
-大一萌新，一只喜欢瞎搞的技术菜鸡。<br>
-![](https://github-readme-stats.vercel.app/api?username=sunynov)
+## 状态 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunynov&layout=compact&theme=flag-india)
+![Status](https://github-readme-stats.vercel.app/api?username=sunynov&show_icons=true&include_all_commits=true&hide_border=true)![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunynov&layout=compact&hide_border=true)
+
+## 编程语言
+
+![C](https://img.shields.io/badge/C-a64dff?style=flat-square&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-378BBA?style=flat-square)
+
+![python](https://img.shields.io/badge/python-red?style=flat-square&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+## 开发环境
+
+![Windows](https://img.shields.io/badge/Env-Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
+![Android](https://img.shields.io/badge/Env-Android-737373?style=flat-square&logo=android&logoColor=#A4C639&labelColor=737373)](https://www.android.com/)
+![kali](https://img.shields.io/badge/kali_linux-000000?style=flat-square&logo=kali&logoColor=FFFFFF&labelColor=000000)
+
+
+## 设备
+
+![ONEPLUS13](https://img.shields.io/badge/ONEPLUS_13-red?style=flat-square&logo=oneplus&logoColor=FFFFFF&labelColor=red)
+![ONEPLUS5T](https://img.shields.io/badge/ONEPLUS_5T-red?style=flat-square&logo=oneplus&logoColor=FFFFFF&labelColor=red)
+![matepad11](https://img.shields.io/badge/matepad11-FF0000?style=flat-square&logo=huawei&logoColor=FFFFFF)
 
 
 ## 联系我
 
-Email:1795979928@qq.com<br>
-bilibili:[UID:509457505](https://space.bilibili.com/509457505)<br>
-CoolApk:绝对封号<br>
-WebSite:[suny](https://sunynov.top/)
-<!--
-**BobRocket/BobRocket** is a ✨ _special_ ✨ repository because its  (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/sunynov)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sunynov)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/509457505)
+[![Blog](https://img.shields.io/badge/Blog-0E83CD?style=flat-square&logo=hexo&logoColor=white)](https://sunynov.top/)
