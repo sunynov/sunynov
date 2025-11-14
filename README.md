@@ -26,6 +26,7 @@
 
 ## 设备
 
+![Lenovo Y9000P 2025](https://img.shields.io/badge/Lenovo_Y9000P_2025-black?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=black)
 ![ONEPLUS13](https://img.shields.io/badge/ONEPLUS_13-red?style=flat-square&logo=oneplus&logoColor=FFFFFF&labelColor=red)
 ![ONEPLUS5T](https://img.shields.io/badge/ONEPLUS_5T-red?style=flat-square&logo=oneplus&logoColor=FFFFFF&labelColor=red)
 ![matepad11](https://img.shields.io/badge/matepad11-FF0000?style=flat-square&logo=huawei&logoColor=FFFFFF)
